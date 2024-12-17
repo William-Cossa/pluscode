@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bde5cb69.css",
+    "main.js": "/static/js/main.af7c8144.js",
+    "static/media/8010.jpg": "/static/media/8010.12492beca4be1e0153db.jpg",
+    "static/media/sotware.jpeg": "/static/media/sotware.16b6c71e3c300af2e976.jpeg",
+    "static/media/developers.jpeg": "/static/media/developers.47c4c6a966fae63206d9.jpeg",
+    "static/media/herobg.png": "/static/media/herobg.84c7e67b0b2fffec0834.png",
+    "static/media/16.jpeg": "/static/media/16.9672ce9f25b67001758b.jpeg",
+    "static/media/annie.jpeg": "/static/media/annie.eb096d7087f809730219.jpeg",
+    "static/media/Unitec.png": "/static/media/Unitec.a7808830780c9a095297.png",
+    "static/media/cogim.png": "/static/media/cogim.d4c60d7f22e4719788fb.png",
+    "static/media/emaiLoading.gif": "/static/media/emaiLoading.35c0d891d2fe4be51d5e.gif",
+    "static/media/carrinhodevendas.png": "/static/media/carrinhodevendas.cdefabfb72866bfe6f3c.png",
+    "static/media/logo.png": "/static/media/logo.49383329d79c35f7ef82.png",
+    "index.html": "/index.html",
+    "main.bde5cb69.css.map": "/static/css/main.bde5cb69.css.map",
+    "main.af7c8144.js.map": "/static/js/main.af7c8144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bde5cb69.css",
+    "static/js/main.af7c8144.js"
+  ]
+}
